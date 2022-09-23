@@ -2,7 +2,7 @@ const ENV = 'prod'
 
 let config = {
     protocol: 'https',
-    domain: 'dev.oijpcr-front-end.pages.dev/',
+    domain: 'dev.oijpcr-front-end.pages.dev',
     host: 'https://dev.oijpcrapi.live',
     timeoutValue: 6000,
     s3Host: 'media.oijpcr.org'
